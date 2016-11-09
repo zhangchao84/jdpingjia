@@ -6,4 +6,5 @@
 ![image](reademe_img/1.png)</br>
 第三步：点击临时加载附加组件，在文件选择窗口找到你下载的项目所在目录选择manifest.json，点击完成即可。</br>
 ![image](reademe_img/2.png)</br>
-![image](reademe_img/3.png)
+![image](reademe_img/3.png)</br>
+<h1 style="color:red;">直接访问评价地址会自动执行。</h1>
